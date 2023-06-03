@@ -2,13 +2,18 @@
 
 ## Procedural Programming:
    In procedural programming (programming paradigm/style of programming), the program is divided into smaller reusable procedures or functions, which are called sequentially to perform tasks. 
+   
    The focus is on how to accomplish a task by specifying a series of steps or procedures. Procedural programming focuses on the step-by-step instructions to solve a problem
+   
    Procedural programming typically uses loops and conditional statements.(and also functions but not the complex like recursion)
+   
    C, Pascal, and Fortran are examples of procedural programming languages.
    
 ## Functional Programming:
    Functional programming is a programming paradigm in which the program is built around the concept of functions.
+   
    A functional language allows you to write a mathematical function, i.e. a function that takes n arguments and returns a value. If the program is executed, this function is logically evaluated as needed.
+   
    Functional programming languages include Haskell, Lisp, and Erlang.
    
 ## Key Differences:
