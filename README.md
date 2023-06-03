@@ -24,3 +24,7 @@
 4. Functional programming often utilizes higher-order functions and recursion, while procedural programming typically uses loops and conditional statements.
 
 Python and JavaScript, support both procedural and functional programming styles
+
+# Top-Down Approach and Bottom-Up Approach
+
+In the top-down approach, the entire problem is further divided into smaller, more manageable units until the problem is broken down into its most granular parts. Each component is then solved or implemented separately, and the solutions are integrated to form the complete solution.
