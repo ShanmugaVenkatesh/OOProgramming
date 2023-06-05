@@ -28,3 +28,11 @@ Python and JavaScript, support both procedural and functional programming styles
 # Top-Down Approach and Bottom-Up Approach
 
 In the top-down approach, the entire problem is further divided into smaller, more manageable units until the problem is broken down into its most granular parts. Each component is then solved or implemented separately, and the solutions are integrated to form the complete solution.
+
+
+## Object:[Eg:Man]
+   It has 2 things: (Attribute,Behaviour)
+   Attribute --> properties of object. To define a attribute --> need to use varibles.[Age of Man]
+   Behaviour --> actions of object. To define a behaviour --> need to use methods.[dancing]
+Class: It is a design or template of the object. Eg: Moto e7 power is designed once and manufactured many times. That designing of object is class.
+
