@@ -28,6 +28,10 @@ Python and JavaScript, support both procedural and functional programming styles
 # Top-Down Approach and Bottom-Up Approach
 
 In the top-down approach, the entire problem is further divided into smaller, more manageable units until the problem is broken down into its most granular parts. Each component is then solved or implemented separately, and the solutions are integrated to form the complete solution.
+In this approach We focus on breaking up the problem into smaller parts.
+
+In bottom up approach, we solve smaller problems and integrate it as whole and complete the solution.
+
 
 
 ## Object:[Eg:Man]
